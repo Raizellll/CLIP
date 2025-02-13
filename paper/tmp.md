@@ -1,0 +1,1 @@
+> 论文基本内容需要包括：a)Abstract:摘要，简要介绍b)Introduction:介绍选题背景，确定研究问题，期望达到的效果等c)RelatedWork:介绍相关的研究内容d)Method:详细讲解项目的方案，例如模型，训练过程，损失函数选择等。e)Experiment&Analysis:介绍实验内容，展示实验结果，根据实验结果进行分析f)Conclusion&Reflection:总结项目收获，项目过程中的问题与思考，以及如何解决了这些问题g)Reference:在.bib里添加citation信息并在文章里合理饮用。
